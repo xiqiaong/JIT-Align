@@ -34,3 +34,10 @@ Get Link: https://drive.google.com/drive/folders/1NvtwTEo-CKNQ2TgyMU5nxeJ6m7Ymay
 ![image](https://github.com/user-attachments/assets/92630973-1e06-4d3a-840b-9a908c9982a9)
 
 If you have any questions, please feel free to share and discuss :smile:.
+
+
+
+## 📜 License
+All images and content © 2025 Yujie Ye.
+
+
