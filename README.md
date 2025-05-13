@@ -38,6 +38,10 @@ If you have any questions, please feel free to share and discuss :smile:.
 
 
 ## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 All images and content © 2025 Yujie Ye.
+
 
 
