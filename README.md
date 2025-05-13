@@ -33,4 +33,4 @@ Get Link: https://drive.google.com/drive/folders/1NvtwTEo-CKNQ2TgyMU5nxeJ6m7Ymay
 ### Discussion2: Impact of Parameter Settings in Semantic Alignment Algorithms on Model Performance
 ![image](https://github.com/user-attachments/assets/92630973-1e06-4d3a-840b-9a908c9982a9)
 
-If you have any questions, please feel free to share and discuss :smile.
+If you have any questions, please feel free to share and discuss :smile:.
